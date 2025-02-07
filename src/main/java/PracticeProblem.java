@@ -17,7 +17,7 @@ public class PracticeProblem {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Input an integer: ");
 		String word = s.nextLine();
-		System.out.println(int(5 + word) + 5);
+		System.out.println((int)(5 + word) + 5);
 	}
 
 	public static void q2() {
@@ -25,7 +25,7 @@ public class PracticeProblem {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Input a number: ");
 		String word = s.nextLine();
-		System.out.println(double(4 + word + 3) + 3.4);
+		System.out.println((double)(4 + word + 3) + 3.4);
 	}
 
 	public static void q3() {
@@ -33,7 +33,7 @@ public class PracticeProblem {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Input a boolean: ");
 		String word = s.nextLine();
-		System.out.println(!bool(word));
+		System.out.println(!(bool)(word));
 	}
 
 	public static void q4() {
@@ -41,7 +41,7 @@ public class PracticeProblem {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Input an integer: ");
 		String word = s.nextLine();
-		System.out.println(char(int(word + 3) + 2));
+		System.out.println((char)((int)(word + 3) + 2));
 	}
 
 	public static void q5() {
@@ -49,7 +49,7 @@ public class PracticeProblem {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Input an integer: ");
 		String word = s.nextLine();
-		System.out.println(double(int(word + 1) / 2));
+		System.out.println((double)((int)(word + 1) / 2));
 	}
 
 	public static void q6() {
@@ -57,7 +57,7 @@ public class PracticeProblem {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Input a number: ");
 		String word = s.nextLine();
-		System.out.println(int(double(1 + word)));
+		System.out.println((int)((double)(1 + word)));
 	}
 
 }
