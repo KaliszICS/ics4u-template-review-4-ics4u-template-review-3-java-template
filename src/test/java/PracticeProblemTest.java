@@ -30,7 +30,7 @@ public class PracticeProblemTest {
       PracticeProblem.q1();
 
       // assertion
-      assertEquals("Integer an integer: 61\n", bos.toString());
+      assertEquals("Input an integer: 61\n", bos.toString());
    }
 
     @Test
