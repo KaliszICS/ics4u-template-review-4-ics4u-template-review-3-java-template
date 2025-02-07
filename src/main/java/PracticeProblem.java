@@ -10,6 +10,7 @@ public class PracticeProblem {
 		q5();
 		q6();
 		q7();
+		
 	}
 
 	public static void q1() {
