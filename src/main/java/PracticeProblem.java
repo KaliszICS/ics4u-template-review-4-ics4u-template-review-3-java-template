@@ -8,9 +8,7 @@ public class PracticeProblem {
 		q3();
 		q4();
 		q5();
-		q6();
-		q7();
-		
+		q6();		
 	}
 
 	public static void q1() {
