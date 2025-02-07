@@ -1,10 +1,9 @@
 # Instructions  
 
   ## Questions
-  1. Get a string using "In: " as the prompt.  Output the first character of the string.
-  2. Get a boolean using "In: " as the prompt.  Output the opposite boolean.
-  3. Get an integer using "In: " as the prompt.  Output true if the number is greater than 5.  False otherwise.
-  4. Get a double using "In: " as the prompt. Output true if the number is between -2 and 2 (inclusive).  False otherwise.
-  5. Get a String using "In: " as the prompt.  Output true if the string is "Hello World".  False otherwise
-  6. Get 2 integers using "In: " as the prompt.  Output true if the first integer is less than or equal to the second.  False otherwise.
-  7. Get 2 doubles using "In: " as the prompt.  Output true if the first integer is greater than the second.  False otherwise.
+  1. Ask the user to "Input an integer: ".  Store it as a string.  Put the number 5 in front of it.  Convert it to an integer.  Add 5 to it.  Output it.</br>
+  2. Ask the user to "Input a number: ".  Store it as a string.  Put the number 4 in front of it and 3 after it.  Convert it to a double.  Add 3.4 to it.  Output it.  </br>
+  3. Ask the user to "Input a boolean: ".  Store it as a string.  Convert it to a boolean.  Swap its value. Output it.</br>
+  4. Ask the user to "Input an integer: ".  Store it as a string.  Put the number 3 after it.  Convert it to an integer.  Add 2 to it.  Convert it to a char.  Output it.</br>
+  5. Ask the user to "Input an integer: ".  Store it as a string.  Put the number 1 after it.  Convert it to an integer.  Divide it by 2.  Convert it to a double.  Output it.</br>
+  6. Ask the user to "Input a number: ". Store it as a string. Put the number 1 in front of it.  Convert it to a double.  Convert it to an integer. Output it.</br>
