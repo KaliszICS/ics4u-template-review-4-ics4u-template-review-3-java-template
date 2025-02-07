@@ -42,9 +42,4 @@ public class PracticeProblem {
 		
 	}
 
-	public static void q7() {
-		//Write question 7 code here
-		
-	}
-
 }
